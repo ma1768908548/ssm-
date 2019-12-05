@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssmTest:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4aeb95e-ec19-4df2-b168-69691b1399fd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ssmTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectByExample</find>
+      <find>selectByExampleWithDept</find>
+      <find>WithDept_Column_List</find>
+      <find>empN</find>
+      <find>help</find>
+      <find>btn-sm</find>
+      <find>click</find>
+      <find>empName_add_input</find>
+      <find>saveEmp</find>
+      <find>HIBERNA</find>
+      <find>delete</find>
+      <find>check_item</find>
+      <find>test</find>
+      <find>result</find>
+      <find>list</find>
+      <find>btnTd</find>
+      <find>help-block</find>
+      <find>ele</find>
+      <find>has-success</find>
+      <find>empId</find>
+      <find>empUpdateModal</find>
+      <find>deptId</find>
+      <find>insertSelective</find>
+      <find>getEmp</find>
+      <find>edit-id</find>
+      <find>edit_btn</find>
+      <find>delete_btn</find>
+      <find>selectByPrimaryKey</find>
+      <find>reset_form</find>
+      <find />
+    </findStrings>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1USxXNtS97SkNWes2wpWwyB9d4Q" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569496862768" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\webapp" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\webapp\WEB-INF" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\webapp\resources" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\resources\spring" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\resources\mybatis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ideamaven.admin.interceptor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\webapp\resources" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\test\java\com\ideamaven\commons\mapper" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\resources\mybatis" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\resources" />
+      <recent name="E:\IDEA-workspace\ssmTest\src\main\resources\spring" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.8">
+    <configuration name="All in ssmTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ssmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssmTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ideamaven.admin.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ideamaven.admin.test" />
+      <option name="MAIN_CLASS_NAME" value="com.ideamaven.admin.test.MapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/ssmTest_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssmTest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ssmTest_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_8_ssmTest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssmTest:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_ssmTest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="6009" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in ssmTest" />
+      <item itemvalue="JUnit.All in ssmTest (1)" />
+      <item itemvalue="JUnit.MapperTest" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.8" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MapperTest" />
+        <item itemvalue="JUnit.All in ssmTest (1)" />
+        <item itemvalue="JUnit.All in ssmTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringConfigurationTabSettings">
+    <option name="sortAlpha" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4aeb95e-ec19-4df2-b168-69691b1399fd" name="Default Changelist" comment="" />
+      <created>1552184854923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552184854923</updated>
+      <workItem from="1552184859063" duration="2648000" />
+      <workItem from="1552368700607" duration="4722000" />
+      <workItem from="1552436051261" duration="3848000" />
+      <workItem from="1552480668558" duration="1783000" />
+      <workItem from="1552482510484" duration="296000" />
+      <workItem from="1552540921453" duration="1224000" />
+      <workItem from="1552561099913" duration="4040000" />
+      <workItem from="1552618753152" duration="643000" />
+      <workItem from="1552633260592" duration="595000" />
+      <workItem from="1552655494752" duration="1295000" />
+      <workItem from="1552955323023" duration="4291000" />
+      <workItem from="1553043650824" duration="2290000" />
+      <workItem from="1553048201167" duration="5322000" />
+      <workItem from="1553081783369" duration="8839000" />
+      <workItem from="1553139127135" duration="836000" />
+      <workItem from="1553170390463" duration="634000" />
+      <workItem from="1553565555335" duration="5861000" />
+      <workItem from="1553577421002" duration="3208000" />
+      <workItem from="1553591539429" duration="12032000" />
+      <workItem from="1553690086789" duration="3284000" />
+      <workItem from="1553736394181" duration="9104000" />
+      <workItem from="1553819508338" duration="14744000" />
+      <workItem from="1553928952836" duration="11264000" />
+      <workItem from="1554029693356" duration="7291000" />
+      <workItem from="1554200830417" duration="6425000" />
+      <workItem from="1554294601188" duration="4711000" />
+      <workItem from="1554344896793" duration="3124000" />
+      <workItem from="1554798111932" duration="13830000" />
+      <workItem from="1554894121661" duration="6871000" />
+      <workItem from="1555203431580" duration="81000" />
+      <workItem from="1555662698335" duration="7031000" />
+      <workItem from="1555739388745" duration="6246000" />
+      <workItem from="1555749658240" duration="3311000" />
+      <workItem from="1555761538327" duration="223000" />
+      <workItem from="1555997423650" duration="3846000" />
+      <workItem from="1556016438313" duration="6411000" />
+      <workItem from="1556103818890" duration="3624000" />
+      <workItem from="1556168066304" duration="8827000" />
+      <workItem from="1556363696383" duration="7336000" />
+      <workItem from="1556449886734" duration="594000" />
+      <workItem from="1556517620393" duration="806000" />
+      <workItem from="1556536232294" duration="1308000" />
+      <workItem from="1556585116026" duration="1075000" />
+      <workItem from="1557044034475" duration="7554000" />
+      <workItem from="1557141340394" duration="5429000" />
+      <workItem from="1557200479809" duration="6690000" />
+      <workItem from="1557314911332" duration="687000" />
+      <workItem from="1557813101095" duration="7914000" />
+      <workItem from="1558078956368" duration="550000" />
+      <workItem from="1558080960446" duration="10748000" />
+      <workItem from="1558177909890" duration="4297000" />
+      <workItem from="1558256411891" duration="5090000" />
+      <workItem from="1558350548397" duration="6796000" />
+      <workItem from="1558411543680" duration="12923000" />
+      <workItem from="1558676736509" duration="4638000" />
+      <workItem from="1558683131437" duration="598000" />
+      <workItem from="1558753744568" duration="1609000" />
+      <workItem from="1558838336836" duration="14806000" />
+      <workItem from="1559044910736" duration="5604000" />
+      <workItem from="1559095553562" duration="4474000" />
+      <workItem from="1559443237628" duration="1327000" />
+      <workItem from="1559544262720" duration="7719000" />
+      <workItem from="1559624828691" duration="13156000" />
+      <workItem from="1565680521542" duration="852000" />
+      <workItem from="1566040835976" duration="2495000" />
+      <workItem from="1566207910441" duration="788000" />
+      <workItem from="1566209750785" duration="3000" />
+      <workItem from="1568718201721" duration="1210000" />
+      <workItem from="1568793996568" duration="31000" />
+      <workItem from="1568798483854" duration="1794000" />
+      <workItem from="1569032117667" duration="1050000" />
+      <workItem from="1569034276373" duration="104000" />
+      <workItem from="1569035240783" duration="154000" />
+      <workItem from="1569036362613" duration="132000" />
+      <workItem from="1569037425172" duration="626000" />
+      <workItem from="1569491033650" duration="2860000" />
+      <workItem from="1569670112046" duration="1364000" />
+      <workItem from="1569755918820" duration="3386000" />
+      <workItem from="1569807679528" duration="18000" />
+      <workItem from="1575363847193" duration="245000" />
+      <workItem from="1575364324448" duration="457000" />
+      <workItem from="1575364834396" duration="9350000" />
+      <workItem from="1575425565003" duration="2784000" />
+      <workItem from="1575445054747" duration="2402000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MvcTest_testPage - 2019.03.20 at 21h 30m 24s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.20 at 21h 39m 50s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.20 at 21h 40m 49s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.20 at 21h 43m 00s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.20 at 21h 47m 00s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.21 at 11h 43m 19s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.21 at 11h 43m 39s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.21 at 11h 44m 47s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2019.03.21 at 11h 46m 07s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapperTest - 2019.05.26 at 17h 11m 01s.xml">
+      <configuration name="MapperTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

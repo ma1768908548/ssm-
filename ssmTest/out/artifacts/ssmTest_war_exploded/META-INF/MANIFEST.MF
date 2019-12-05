@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: 漩涡九尾
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8
+
